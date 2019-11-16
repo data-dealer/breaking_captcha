@@ -1,4 +1,4 @@
 # breaking_captcha
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/minmax49/breaking_captcha/blob/master/capt_1.png)
 <h1> this is my </h1>
